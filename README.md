@@ -6,4 +6,4 @@
 ##  5.NM_final_bound :  Nelder-Mead with Nearest method (constrain treatment)
 ##  6.NM_PSO_sd: NM-PSO with SD (stopping criterion)
 ##  7.NM_PSO_Woods :NM-PSO with Woods (stopping criterion)
-##  8.FPA :Flower Pollinate Algorithm
+##  8.FPA :Flower Pollinat Algorithm
