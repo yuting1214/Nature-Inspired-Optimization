@@ -1,3 +1,4 @@
+
 FPA <- function(objective, bound = c(-100,100), flower_num, dimension, iteration, verbose = FALSE){
   #Bound
   LowerBound <- bound[1] ; UpperBound <- bound[2] ; interval <- abs(UpperBound - LowerBound)
@@ -86,6 +87,8 @@ FPA <- function(objective, bound = c(-100,100), flower_num, dimension, iteration
   return(result)
 }
 
+#Testing function
+
 f3 <- function(x){
   temp <- sum(x*x)
   temp2 <- sum(0.5*x)
@@ -93,4 +96,4 @@ f3 <- function(x){
   return(sum(out))
 }
 flower_num = 100;dimension = 10; iteration = 500; bound = c(-100,100)
-FPA(Compo3, bound , flower_num, dimension, iteration, verbose = T) #2843.578
+FPA(Compo3, bound , flower_num, dimension, iteration, verbose = T) 
