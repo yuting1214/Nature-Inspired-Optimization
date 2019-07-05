@@ -1,3 +1,12 @@
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+header-includes:
+  - \usepackage[ruled,vlined,lined,boxed,commentsnumbered]{algorithm2e}
+---
+
 1. Particle Swarm Optimization
   + Introduction
   + Pseudo-code
