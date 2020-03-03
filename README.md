@@ -11,7 +11,7 @@
 <!-- Outline -->
 # Outline
 
-* [Particle Swarm Optimization](#Particle-Swarm-Optimization)
+* [Particle Swarm Optimization](#1.Particle-Swarm-Optimization)
    + Introduction
    + Code
 2. [Quantum Particle Swarm Optimization](#Quantum-Particle-Swarm-Optimization)
