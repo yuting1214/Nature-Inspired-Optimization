@@ -1,11 +1,8 @@
 # Nature-Inspired-Optimization
 
-##  3.QPSO_final_version: QPSO with Nearest method (constrain treatment)
-##  4.NM_final_version : Nelder-Mead unconstrained
-##  5.NM_final_bound :  Nelder-Mead with Nearest method (constrain treatment)
 ##  6.NM_PSO_sd: NM-PSO with SD (stopping criterion)
 ##  7.NM_PSO_Woods :NM-PSO with Woods (stopping criterion)
-##  8.FPA :Flower Pollinat Algorithm
+##  8.FPA :Flower Pollinate Algorithm
 
 <!-- Outline -->
 # Outline
@@ -64,9 +61,15 @@
 ### (4-1) Introduction
 ### (4-2)Code
 
+* [Nelder-Mead & Particle Swarm Optimization with Standard Deviation(stopping criterion)](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/code/NM_PSO_sd.R)
+
+* [[Nelder-Mead & Particle Swarm Optimization with Woods(stopping criterion)](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/code/NM_PSO_Woods.R)
+
 ## Flower Pollinat Algorithm
 ### (5-1) Introduction
 ### (5-2)Code
+
+* [Flower Pollination Algorithm](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/code/FPA.R)
 
 ## Reference
 
@@ -80,13 +83,13 @@
 
  - [5]: J. Sun et al, "A Global Search Strategy of Quantum-behaved Particle Swarm Optimization", Proc. 2004 IEEE Conference on Cybernetics and Intelligent Systems.
 
-$[6]:$ Sun J., Xu W., Fang W. (2006) "Quantum-Behaved Particle Swarm Optimization Algorithm with Controlled Diversity" In: Alexandrov V.N., van Albada G.D., Sloot P.M.A., Dongarra J. (eds) Computational Science ICCS 2006. ICCS 2006. Lecture Notes in Computer Science, vol 3993. Springer, Berlin, Heidelberg
+ - [6]: Sun J., Xu W., Fang W. (2006) "Quantum-Behaved Particle Swarm Optimization Algorithm with Controlled Diversity" In: Alexandrov V.N., van Albada G.D., Sloot P.M.A., Dongarra J. (eds) Computational Science ICCS 2006. ICCS 2006. Lecture Notes in Computer Science, vol 3993. Springer, Berlin, Heidelberg
 
-$[7]:$ W. Spendley, G.R. Hext, F.R. Himsworth, "Sequential application of simplex designs in optimization and evolutionary operation"", Technometrics 4 (1962) 441-461.
+ - [7]: W. Spendley, G.R. Hext, F.R. Himsworth, "Sequential application of simplex designs in optimization and evolutionary operation"", Technometrics 4 (1962) 441-461.
 
-$[8]:$ M, Baudin, "Nelder-Mead User's Manual"", 2010.
+ - [8]: M, Baudin, "Nelder-Mead User's Manual"", 2010.
 
-$[9]:$ Ellen Fan. "Global optimization of lennard-jones atomic clusters". Technical report, McMaster University, February 2002
+ - [9]: Ellen Fan. "Global optimization of lennard-jones atomic clusters". Technical report, McMaster University, February 2002
 
 $[10]:$ Erwie Zahara, Yi-Tung Kao, and Chia-Hsin Hu "Hybrid simplex search and particle swarm optimization for unconstrained optimization", February 2007 European Journal of Operational Research 181(2):527-548 DOI: 10.1016/j.ejor.2006.06.034
 
