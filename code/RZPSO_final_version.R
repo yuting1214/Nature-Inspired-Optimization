@@ -64,7 +64,7 @@ RZPSO <- function(objective, bound = c(-100,100), particle_num, dimension, itera
       #Random number
       e1 = runif(dimension)
       e2 = runif(dimension)
-      #inertia function £c(t)
+      #inertia function Â£c(t)
       theta = 0.72984
       current = particle_path[[j]][1, ]
       current_best = particle_path[[j]][2, ]
