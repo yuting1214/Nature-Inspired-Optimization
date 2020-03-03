@@ -45,24 +45,24 @@ Where an individual finds itself in a problem(or search) space it can use its ow
 ### (1-2) Code
 [Code]()
 
-## 2. Quantum Particle Swarm Optimization
+## Quantum Particle Swarm Optimization
 
 ### (2-1) Introduction
 ### (2-2) Code
 
-## 3. Nelder-Mead Optimization
+## Nelder-Mead Optimization
 ### (3-1) Introduction
 ### (3-2)Code
    
-## 4. Hybrid Method Optimization
+##  Hybrid Method Optimization
 ### (4-1) Introduction
 ### (4-2)Code
 
-## 5. Flower Pollinat Algorithm
+## Flower Pollinat Algorithm
 ### (5-1) Introduction
 ### (5-2)Code
 
-## 6. Reference
+## Reference
 
  - [1]:Kennedy J, Eberhart RC. Particle swarm optimization. In: Proceedings of the IEEE international conference on neural networks, Piscataway, NJ, USA; 1995.
 
@@ -70,9 +70,9 @@ Where an individual finds itself in a problem(or search) space it can use its ow
 
  - [3]:Sabine Helwig, Juergen Branke, and Sanaz Mostaghim, "Experimental Analysis of Bound Handling Techniques in Particle Swarm Optimization", April 2013 IEEE Transactions on Evolutionary Computation 17(2):259 - 271
 
-$[4]:$ Bin Feng, Jun Sun, and Wenbo Xu, "Particle Swam Optimization with Particles Having Quantum Behavior", July 2004 IEEE
+ - [4]: Bin Feng, Jun Sun, and Wenbo Xu, "Particle Swam Optimization with Particles Having Quantum Behavior", July 2004 IEEE
 
-$[5]:$ J. Sun et al, "A Global Search Strategy of Quantum-behaved Particle Swarm Optimization", Proc. 2004 IEEE Conference on Cybernetics and Intelligent Systems.
+ - [5]: J. Sun et al, "A Global Search Strategy of Quantum-behaved Particle Swarm Optimization", Proc. 2004 IEEE Conference on Cybernetics and Intelligent Systems.
 
 $[6]:$ Sun J., Xu W., Fang W. (2006) "Quantum-Behaved Particle Swarm Optimization Algorithm with Controlled Diversity" In: Alexandrov V.N., van Albada G.D., Sloot P.M.A., Dongarra J. (eds) Computational Science ICCS 2006. ICCS 2006. Lecture Notes in Computer Science, vol 3993. Springer, Berlin, Heidelberg
 
