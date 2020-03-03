@@ -42,7 +42,9 @@
 
 ### (1-2) Code
 
-* [Particle Swarm Optimization with Nearest method (constrain treatment)]()
+* [Particle Swarm Optimization with Nearest method (constrain treatment)](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/code/SPSO_final_version.R)
+
+* [Particle Swarm Optimization with Reflection method and velocity zero (constrain treatment)](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/code/RZPSO_final_version.R)
 
 ## Quantum Particle Swarm Optimization
 
