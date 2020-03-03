@@ -24,24 +24,30 @@
 * [Acknowledgements](#acknowledgements)
 
 <!-- Outline -->
-# Outline
+## Outline
 
 1. [Particle Swarm Optimization](#Particle-Swarm-Optimization)
    + Introduction
    + Code
 2. [Quantum Particle Swarm Optimization](#Quantum-Particle-Swarm-Optimization)
-  + Introduction
-  + Code
+   + Introduction
+   + Code
 3. [Nelder-Mead Optimization](#Nelder-Mead-Optimization)
-  + Introduction
-  + Code
+   + Introduction
+   + Code
 4. [Hybrid Method Optimization](Hybrid-Method-Optimization)
-  + Introduction
-  + Code
+   + Introduction
+   + Code
 5. [Flower Pollinat Algorithm](#Flower-Pollinat-Algorithm)
-  + Introduction
-  + Code
+   + Introduction
+   + Code
 6. Reference
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+
 
 ### 1.Particle Swarm Optimization
 #### (1-1) Introduction
