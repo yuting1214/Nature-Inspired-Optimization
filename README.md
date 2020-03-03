@@ -31,9 +31,8 @@
 
 <!-- GETTING STARTED -->
 # Getting Started
-### 1. Particle Swarm Optimization
-#### (1-1) Introduction
-
+## 1. Particle Swarm Optimization
+### (1-1) Introduction
 Particle swarm optimization, or PSO, was developed by Kennedy and Eberhart in 1995 [1](#Model) and has become one of the most widely used swarm-intelligence-based algorithms due to its simplicity and flexibility.
 
 PSO has roots in two main component methodologies. Perhaps more obvious are its ties to artificial life in general, and to bird flocking, fish schooling, and swarming theory in particular. It is also related, however, to evolutionary computation, and has ties to both genetic
@@ -41,9 +40,10 @@ algorithms and evolutionary programming.
 
 The optimization's metaphor had two cognitive aspects, individual learning and learning from a social group.
 Where an individual finds itself in a problem(or search) space it can use its own experience and that of its peers to move itself toward the solution.
+### (1-2) Code
+[Code]()
 
-
-#### 6. Reference
+## 6. Reference
 
  - [1]:Kennedy J, Eberhart RC. Particle swarm optimization. In: Proceedings of the IEEE international conference on neural networks, Piscataway, NJ, USA; 1995.
 
