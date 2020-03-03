@@ -57,7 +57,9 @@
 ### (3-2)Code
 
 * [Nelder-Mead unconstrained](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/code/NM_final_version.R)
-   
+ 
+* [Nelder-Mead with Nearest method (constrain treatment)](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/code/NM_final_bound.R)
+
 ##  Hybrid Method Optimization
 ### (4-1) Introduction
 ### (4-2)Code
