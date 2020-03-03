@@ -8,25 +8,10 @@
 ##  7.NM_PSO_Woods :NM-PSO with Woods (stopping criterion)
 ##  8.FPA :Flower Pollinat Algorithm
 
-<!-- TABLE OF CONTENTS -->
-# Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
 <!-- Outline -->
-## Outline
+# Outline
 
-1. [Particle Swarm Optimization](#Particle-Swarm-Optimization)
+1. [Particle Swarm Optimization](##1.-Particle-Swarm-Optimization)
    + Introduction
    + Code
 2. [Quantum Particle Swarm Optimization](#Quantum-Particle-Swarm-Optimization)
@@ -45,11 +30,8 @@
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-
-
-### 1.Particle Swarm Optimization
+# Getting Started
+### 1. Particle Swarm Optimization
 #### (1-1) Introduction
 
 Particle swarm optimization, or PSO, was developed by Kennedy and Eberhart in 1995 [1](#Model) and has become one of the most widely used swarm-intelligence-based algorithms due to its simplicity and flexibility.
