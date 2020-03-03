@@ -10,24 +10,17 @@
 
 # Outline
 
-1. Particle Swarm Optimization
+## 1. Particle Swarm Optimization
   + Introduction
-  + Pseudo-code
-  + Configuration
-  + Experimental Result
-2. Quantum Particle Swarm Optimization
+  + Code
+## 2. Quantum Particle Swarm Optimization
   + Introduction
-  + Pseudo-code
-  + Configuration
-  + Experimental Result
-3. Nelder-Mead Optimization
+  + Code
+## 3. Nelder-Mead Optimization
   + Introduction
-  + Pseudo-code
-  + Configuration
-4. Hybrid Method Optimization
+  + Code
+## 4. Hybrid Method Optimization
   + Introduction
-  + Pseudo-code
-  + Configuration
-  + Experimental Result
-5. Summary
-6. Reference
+  + Code
+## 5. Summary
+## 6. Reference
