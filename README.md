@@ -1,8 +1,7 @@
 # Nature-Inspired-Optimization
 
-##  6.NM_PSO_sd: NM-PSO with SD (stopping criterion)
-##  7.NM_PSO_Woods :NM-PSO with Woods (stopping criterion)
-##  8.FPA :Flower Pollinate Algorithm
+Introduction
+
 
 <!-- Outline -->
 # Outline
@@ -91,10 +90,10 @@
 
  - [9]: Ellen Fan. "Global optimization of lennard-jones atomic clusters". Technical report, McMaster University, February 2002
 
-$[10]:$ Erwie Zahara, Yi-Tung Kao, and Chia-Hsin Hu "Hybrid simplex search and particle swarm optimization for unconstrained optimization", February 2007 European Journal of Operational Research 181(2):527-548 DOI: 10.1016/j.ejor.2006.06.034
+ - [10]: Erwie Zahara, Yi-Tung Kao, and Chia-Hsin Hu "Hybrid simplex search and particle swarm optimization for unconstrained optimization", February 2007 European Journal of Operational Research 181(2):527-548 DOI: 10.1016/j.ejor.2006.06.034
 
-$[11]:$ S. Smith, The simplex method and evolutionary algorithms, in: Proceedings of the IEEE International Conference on Evolutionary Computation 1998, pp. 799-804.
+ - [11]: S. Smith, The simplex method and evolutionary algorithms, in: Proceedings of the IEEE International Conference on Evolutionary Computation 1998, pp. 799-804.
 
-$[12]:$ R. Hooke, T.A. Jeeves, Direct search solution of numerical and statistical problems, Journal of Association for Computing Machinery 8 (1961) 212-221.
+ - [12]: R. Hooke, T.A. Jeeves, Direct search solution of numerical and statistical problems, Journal of Association for Computing Machinery 8 (1961) 212-221.
 
-$[13]:$ J.E. Dennis Jr., D.J. Woods, Optimization on microcomputers: the  Nelder-Mead simplex algorithm, in: A. Wouk (Ed.), New Computing Environments: Microcomputers in Large Scale Computing, SIAM, Philadelphia, PA, 1987, pp. 116-122.
+ - [13]: J.E. Dennis Jr., D.J. Woods, Optimization on microcomputers: the  Nelder-Mead simplex algorithm, in: A. Wouk (Ed.), New Computing Environments: Microcomputers in Large Scale Computing, SIAM, Philadelphia, PA, 1987, pp. 116-122.
