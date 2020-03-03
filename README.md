@@ -37,12 +37,12 @@
 ### (1-1) Introduction
 
 ![image](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/graphic/PSO1.jpg)
-Particle swarm optimization, or PSO, was developed by Kennedy and Eberhart in 1995 [1](#Reference) and has become one of the most widely used swarm-intelligence-based algorithms due to its simplicity and flexibility.
 
-![image](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/graphic/PSO1.jpg)
+![image](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/graphic/PSO2.jpg)
 
 ### (1-2) Code
-[Code]()
+
+* [Particle Swarm Optimization with Nearest method (constrain treatment)]()
 
 ## Quantum Particle Swarm Optimization
 
