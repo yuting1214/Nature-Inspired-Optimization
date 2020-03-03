@@ -26,7 +26,7 @@
 5. [Flower Pollinat Algorithm](#Flower-Pollinat-Algorithm)
    + Introduction
    + Code
-6. Reference
+6. [Reference](#Reference)
 
 
 <!-- GETTING STARTED -->
@@ -55,8 +55,12 @@ Where an individual finds itself in a problem(or search) space it can use its ow
 ### (3-2)Code
    
 ## 4. Hybrid Method Optimization
+### (4-1) Introduction
+### (4-2)Code
 
 ## 5. Flower Pollinat Algorithm
+### (5-1) Introduction
+### (5-2)Code
 
 ## 6. Reference
 
