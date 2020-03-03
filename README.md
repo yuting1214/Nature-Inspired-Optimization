@@ -1,6 +1,5 @@
 # Nature-Inspired-Optimization
-##  1.SPSO_final_version : SPSO with Nearest method (constrain treatment)
-##  2.RZPSO_final_version :SPSO with Reflection method and velocity zero (constrain treatment)
+
 ##  3.QPSO_final_version: QPSO with Nearest method (constrain treatment)
 ##  4.NM_final_version : Nelder-Mead unconstrained
 ##  5.NM_final_bound :  Nelder-Mead with Nearest method (constrain treatment)
@@ -51,9 +50,13 @@
 ### (2-1) Introduction
 ### (2-2) Code
 
+* [Quantum Particle Swarm Optimization with Nearest method (constrain treatment)](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/code/QPSO_final_version.R)
+
 ## Nelder-Mead Optimization
 ### (3-1) Introduction
 ### (3-2)Code
+
+* [Nelder-Mead unconstrained](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/code/NM_final_version.R)
    
 ##  Hybrid Method Optimization
 ### (4-1) Introduction
