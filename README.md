@@ -11,7 +11,7 @@
 <!-- Outline -->
 # Outline
 
-* [Particle Swarm Optimization](#1.Particle-Swarm-Optimization)
+* [Particle Swarm Optimization](#Particle-Swarm-Optimization)
    + Introduction
    + Code
 2. [Quantum Particle Swarm Optimization](#Quantum-Particle-Swarm-Optimization)
@@ -32,7 +32,7 @@
 <!-- GETTING STARTED -->
 # Getting Started
 
-## 1. Particle Swarm Optimization
+## Particle Swarm Optimization
 
 ### (1-1) Introduction
 Particle swarm optimization, or PSO, was developed by Kennedy and Eberhart in 1995 [1](#Reference) and has become one of the most widely used swarm-intelligence-based algorithms due to its simplicity and flexibility.
