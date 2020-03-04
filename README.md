@@ -1,6 +1,11 @@
 # Nature-Inspired-Optimization
 
-Introduction
+**Nature Inspired Optimization** is a type of **metaheuristic algorithm**(compared to deterministic algorithm), which is a method to generate acceptiable solutions for complicated problems in a reasonably practical time, although there is no guarantee that optimal solutions can be attained. In addition, **Nature Inspired Optimization** focuses on producing feasible solutions based on natural inspiration method, including **swarm intelligence**, ** creature behavior**  observation during the searching iteration.
+
+artificial neural networks (ANN), fuzzy systems (FS), evolutionary computing (EC), and swarm intelligence (SI), and they have been applied to solve many real-world problems. Despite the popularity of nature-inspired algorithms, many challenges remain which require further research efforts.
+evolutionary intelligence natural phenomenon
+
+Compared to 
 
 
 <!-- Outline -->
