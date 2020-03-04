@@ -44,12 +44,24 @@ Introduction
 ## Quantum Particle Swarm Optimization
 
 ### (2-1) Introduction
+
+![image](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/graphic/QPSO1.jpg)
+
+![image](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/graphic/QPSO2.jpg)
+
+![image](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/graphic/QPSO3.jpg)
+
 ### (2-2) Code
 
 * [Quantum Particle Swarm Optimization with Nearest method (constrain treatment)](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/code/QPSO_final_version.R)
 
 ## Nelder-Mead Optimization
 ### (3-1) Introduction
+
+![image](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/graphic/NM1.jpg)
+
+![image](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/graphic/NM2.jpg)
+
 ### (3-2)Code
 
 * [Nelder-Mead unconstrained](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/code/NM_final_version.R)
@@ -58,6 +70,11 @@ Introduction
 
 ##  Hybrid Method Optimization
 ### (4-1) Introduction
+
+![image](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/graphic/NMPSO1.jpg)
+
+![image](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/graphic/NMPSO2.jpg)
+
 ### (4-2)Code
 
 * [Nelder-Mead & Particle Swarm Optimization with Standard Deviation(stopping criterion)](https://github.com/yuting1214/Nature-Inspired-Optimization/blob/master/code/NM_PSO_sd.R)
